@@ -1,0 +1,24 @@
+C:\Users\User\Desktop\Credit\Credit_Project\Credit_Project\bin\Credit_Project.dll.config
+C:\Users\User\Desktop\Credit\Credit_Project\Credit_Project\bin\Credit_Project.dll
+C:\Users\User\Desktop\Credit\Credit_Project\Credit_Project\bin\Credit_Project.pdb
+C:\Users\User\Desktop\Credit\Credit_Project\Credit_Project\obj\Debug\Credit_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Credit\Credit_Project\Credit_Project\obj\Debug\Credit_Project.dll
+C:\Users\User\Desktop\Credit\Credit_Project\Credit_Project\obj\Debug\Credit_Project.pdb
+D:\aaaaaaa\Credit\Credit_Project\Credit_Project\bin\Credit_Project.dll.config
+D:\aaaaaaa\Credit\Credit_Project\Credit_Project\bin\Credit_Project.dll
+D:\aaaaaaa\Credit\Credit_Project\Credit_Project\bin\Credit_Project.pdb
+D:\aaaaaaa\Credit\Credit_Project\Credit_Project\obj\Debug\Credit_Project.csprojResolveAssemblyReference.cache
+D:\aaaaaaa\Credit\Credit_Project\Credit_Project\obj\Debug\Credit_Project.dll
+D:\aaaaaaa\Credit\Credit_Project\Credit_Project\obj\Debug\Credit_Project.pdb
+C:\Users\User\Videos\Credit Project\Credit\Credit_Project\Credit_Project\bin\Credit_Project.dll.config
+C:\Users\User\Videos\Credit Project\Credit\Credit_Project\Credit_Project\bin\Credit_Project.dll
+C:\Users\User\Videos\Credit Project\Credit\Credit_Project\Credit_Project\bin\Credit_Project.pdb
+C:\Users\User\Videos\Credit Project\Credit\Credit_Project\Credit_Project\obj\Debug\Credit_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Videos\Credit Project\Credit\Credit_Project\Credit_Project\obj\Debug\Credit_Project.dll
+C:\Users\User\Videos\Credit Project\Credit\Credit_Project\Credit_Project\obj\Debug\Credit_Project.pdb
+C:\Users\Administrator\Desktop\Credit\Credit_Project\Credit_Project\bin\Credit_Project.dll.config
+C:\Users\Administrator\Desktop\Credit\Credit_Project\Credit_Project\bin\Credit_Project.dll
+C:\Users\Administrator\Desktop\Credit\Credit_Project\Credit_Project\bin\Credit_Project.pdb
+C:\Users\Administrator\Desktop\Credit\Credit_Project\Credit_Project\obj\Debug\Credit_Project.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Credit\Credit_Project\Credit_Project\obj\Debug\Credit_Project.dll
+C:\Users\Administrator\Desktop\Credit\Credit_Project\Credit_Project\obj\Debug\Credit_Project.pdb

@@ -1,0 +1,105 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Credit_Project.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>
+    <asp:ContentPlaceHolder ID="title" runat="server"></asp:ContentPlaceHolder>
+        </title>
+      <link href="Style/main.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+      
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+<div class="wrapper">
+    <div class="header">
+
+        <h1>
+            <span class="auto-style3">BERHAN</span> <span class="auto-style5">BANK</span> 
+    </h1>
+       
+             </div>
+
+    <div class="menu">
+        <ul>
+        <li><a href="Home.aspx">Home</a></li>
+                <li><a href="save.aspx">Register</a> </li> 
+             <li><a href="Search.aspx">Search</a> </li>
+            
+             <%--  <li><a href="Update.aspx">Edit</a> </li>--%>
+           
+               
+            
+            
+            
+            
+            <li><a href="View.aspx">view</a> </li>
+            <li><a href="Admin.aspx">Admin Role</a></li>
+            <li></li>
+            <li><a href="change.aspx">User</a></li>
+            
+           <li><a >
+                         HI: <asp:Label CssClass="case" ID="Label1" runat="server" ></asp:Label></a></li>
+            
+                <li>
+                    <asp:Image ID="Image1" runat="server" ImageAlign="Right" Height="64px" ImageUrl="~/Style/berh.png" Width="105px" style="margin-left: 0px; margin-bottom: 0px;" />
+                </li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>            <li></li>
+                        <li></li>
+              <li>
+                  <asp:ImageButton ID="ImageButton1" runat="server" CausesValidation="False" Height="32px" ImageUrl="~/Style/logg.jpg" OnClick="ImageButton1_Click1" Width="96px" />
+              </li>
+                       
+                        
+            
+            
+             </ul>
+    </div>
+    
+    <div class="content">
+        
+           <style type="text/css">
+               .case
+               {
+                  text-transform:capitalize;
+               }
+               .auto-style3 {
+                   color: #FF5F11;
+                   font-size: x-large;
+               }
+               .auto-style5 {
+                   color: #0066CC;
+                   font-size: x-large;
+               }
+               .newStyle1 {
+                   font-family: "times New Roman", Times, serif;
+               }
+               .newStyle2 {
+                   font-family: "times New Roman", Times, serif;
+               }
+               .newStyle3 {
+                   font-family: "times New Roman", Times, serif;
+               }
+        </style>
+         <asp:ContentPlaceHolder ID="contentBody" runat="server">
+     
+
+        </asp:ContentPlaceHolder>
+       </div>
+    <div class="clear"></div>
+        <div class="footer"> 
+            <h3>
+                Copyright BERHANBANK@IT_DEPARTMENT_2019
+            </h3>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

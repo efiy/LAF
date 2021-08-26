@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Credit\Credit_Project\Credit_Project\bin\Credit_Project.dll.config
+C:\Users\User\Desktop\Credit\Credit_Project\Credit_Project\bin\Credit_Project.dll
+C:\Users\User\Desktop\Credit\Credit_Project\Credit_Project\bin\Credit_Project.pdb
+C:\Users\User\Desktop\Credit\Credit_Project\Credit_Project\obj\Release\Credit_Project.dll
+C:\Users\User\Desktop\Credit\Credit_Project\Credit_Project\obj\Release\Credit_Project.pdb
+C:\Users\User\Desktop\Credit\Credit_Project\Credit_Project\obj\Release\Credit_Project.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Credit\Credit_Project\Credit_Project\bin\Credit_Project.dll.config
+C:\Users\Administrator\Desktop\Credit\Credit_Project\Credit_Project\bin\Credit_Project.dll
+C:\Users\Administrator\Desktop\Credit\Credit_Project\Credit_Project\bin\Credit_Project.pdb
+C:\Users\Administrator\Desktop\Credit\Credit_Project\Credit_Project\obj\Release\Credit_Project.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Credit\Credit_Project\Credit_Project\obj\Release\Credit_Project.dll
+C:\Users\Administrator\Desktop\Credit\Credit_Project\Credit_Project\obj\Release\Credit_Project.pdb
